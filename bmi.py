@@ -11,7 +11,7 @@ def calculate_bmi(height, weight):
     elif bmi<=25.0:
         print("Normal Weight")
     else:
-        print("Over Weightim gay")
+        print("Over Weight")
 
 
 calculate_bmi(weight=57,height=1.73)
